@@ -1,0 +1,5 @@
+mandatory:
+1- revise the lecture
+2- Write the complete LCD driver
+3- write your name in arabic and move it on the LCD
+
